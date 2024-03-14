@@ -1,0 +1,9 @@
+JSON-SERVER
+
+->initiate package.jason
+      npm init -y
+->create package-lock.json
+     npm i
+->install json-server
+          
+          npm i json-server@0.17.4
